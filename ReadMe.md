@@ -38,3 +38,4 @@ This is a decentralized smart contract for renting bikes using Ethereum blockcha
 - Rent a bike using `rentBike(bikeId)` and deposit the required amount.
 - Return the bike with `returnBike(bikeId)` to receive the remaining deposit minus the rental fee.
 
+[Specifications and Assumptions](https://github.com/Arshdeep-Singh-01/Bike-Rental-Smart-Contract/wiki/Bike-Rental-Smart-Contract-%E2%80%90-Specifications-and-Assumptions)
